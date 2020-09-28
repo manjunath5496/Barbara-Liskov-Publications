@@ -83,7 +83,7 @@
 </tr>
 <tr>
 <th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
-<td><a title="John McCarthy (computer scientist)" href="https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)">John McCarthy</a><sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Barbara_Liskov#cite_note-1">[1]</a></sup></td>
+<td><a title="John McCarthy (computer scientist)" href="https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)">John McCarthy</a></td>
 </tr>
 <tr>
 <th scope="row">Doctoral students</th>
