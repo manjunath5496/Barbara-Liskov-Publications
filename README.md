@@ -1,3 +1,102 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Barbara Liskov</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-Barbara_Liskov_MIT_computer_scientist_2010.jpg"><img src="220px-Barbara_Liskov_MIT_computer_scientist_2010.jpg" srcset="220px-Barbara_Liskov_MIT_computer_scientist_2010.jpg" alt="Barbara Liskov MIT computer scientist 2010.jpg" width="220" height="308" data-file-width="1857" data-file-height="2600" /></a>
+<div>Liskov in 2010.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Barbara Jane Huberman</div>
+<br /><span class="nowrap">November 7, 1939<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;80)</span></span><br />
+<div class="birthplace">Los Angeles, California</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category"><a title="United States" href="https://en.wikipedia.org/wiki/United_States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a title="University of California, Berkeley" href="https://en.wikipedia.org/wiki/University_of_California,_Berkeley">University of California, Berkeley</a></li>
+<li><a title="Stanford University" href="https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li>Venus&nbsp;(<a title="Operating system" href="https://en.wikipedia.org/wiki/Operating_system">operating system</a>)</li>
+<li><a title="CLU (programming language)" href="https://en.wikipedia.org/wiki/CLU_(programming_language)">CLU</a>&nbsp;and&nbsp;<a title="Argus (programming language)" href="https://en.wikipedia.org/wiki/Argus_(programming_language)">Argus</a></li>
+<li>Thor&nbsp;(<a title="Object-oriented programming" href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a>&nbsp;<a title="Database" href="https://en.wikipedia.org/wiki/Database">database</a>)</li>
+<li><a title="Liskov substitution principle" href="https://en.wikipedia.org/wiki/Liskov_substitution_principle">Liskov substitution principle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Nathan Liskov (1970&ndash;)</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>Moses Liskov</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a title="IEEE John von Neumann Medal" href="https://en.wikipedia.org/wiki/IEEE_John_von_Neumann_Medal">IEEE John von Neumann Medal</a>&nbsp;<small>(2004)</small></li>
+<li><a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">A. M. Turing Award</a>&nbsp;<small>(2008)</small></li>
+<li><a title="Computer Pioneer Award" href="https://en.wikipedia.org/wiki/Computer_Pioneer_Award">Computer Pioneer Award</a>&nbsp;<small>(2018)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0673971" rel="nofollow"><em>A Program to Play Chess End Games</em></a>&nbsp;(1968)</td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="John McCarthy (computer scientist)" href="https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)">John McCarthy</a><sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Barbara_Liskov#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a title="Maurice Herlihy" href="https://en.wikipedia.org/wiki/Maurice_Herlihy">Maurice Herlihy</a>,&nbsp;<a class="mw-redirect" title="J. Eliot Moss" href="https://en.wikipedia.org/wiki/J._Eliot_Moss">J. Eliot Moss</a>,&nbsp;<a title="Sanjay Ghemawat" href="https://en.wikipedia.org/wiki/Sanjay_Ghemawat">Sanjay Ghemawat</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<p><strong>Barbara Liskov</strong>&nbsp;(born November 7, 1939 as&nbsp;<strong>Barbara Jane Huberman</strong>) is an American&nbsp;<a title="Computer scientist" href="https://en.wikipedia.org/wiki/Computer_scientist">computer scientist</a>&nbsp;who is an&nbsp;<a class="mw-redirect" title="List of Institute Professors at the Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/List_of_Institute_Professors_at_the_Massachusetts_Institute_of_Technology">Institute Professor</a>&nbsp;at the&nbsp;<a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a>&nbsp;and Ford Professor of Engineering in its&nbsp;<a class="mw-redirect" title="MIT School of Engineering" href="https://en.wikipedia.org/wiki/MIT_School_of_Engineering">School of Engineering</a>'s&nbsp;<a title="Electrical engineering" href="https://en.wikipedia.org/wiki/Electrical_engineering">electrical engineering</a>&nbsp;and&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>&nbsp;department.&nbsp;She was one of the first women to be granted a doctorate in computer science in the United States and is a&nbsp;<a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;winner who developed the&nbsp;<a title="Liskov substitution principle" href="https://en.wikipedia.org/wiki/Liskov_substitution_principle">Liskov substitution principle</a>.</p>
+
+</br>
+
 <h2> Publications </h2>
 
 <ul>
